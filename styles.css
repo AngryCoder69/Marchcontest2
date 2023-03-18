@@ -1,0 +1,197 @@
+h1{
+  margin:0;
+  padding: 0;
+}
+h2{
+  margin:0;
+}
+body{
+padding-top: 20px;
+  background-color: black;
+  color: white;
+  font-family: Poppins;
+}
+.nav{
+display: flex;
+
+padding-left:30px;
+
+}
+.container{
+  align-items: center;
+  display: flex;
+padding-left: 600px;
+background-color: black;
+}
+
+.nav2
+{
+  align-items: center;
+  display: flex;
+  gap:90px;
+padding-left: 500px;
+
+}
+button{
+  height: 30px;
+  color:white;
+  background-color:  #262626;
+  border-radius: 10px;
+  border-style: none;
+
+}
+form{
+background-color: black;
+border-style: none;
+}
+form input{
+  background-color: #262626;
+  border-radius: 10px;
+  color: white;
+  margin-left: 0;
+  height: 30px;
+
+border-style: none;
+display: inline;
+}
+
+form button{
+  margin: 0;
+  outline: 0;
+}
+.heading{
+  padding-left: 30px;
+}
+main{
+  display: flex;
+}
+.round{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  background-color: #FECB03;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.text1{
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-left: 40px;
+}
+
+.aboutusContainer{
+
+  background-color: #262626;
+  with:1323px;
+  height: 788px;
+  padding-left: 59px;
+  padding-right: 59px;
+  padding-top: 50px;
+  border-radius: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.knowmore{
+background-color: #FECB03;
+color: black;
+margin-top: 120px;
+margin-left:  300px;
+border-radius: 10px;
+
+}
+.aboutus1{
+padding-top: 70px;
+display:flex;
+margin-left: 50px
+
+}
+.aboutus3{
+  padding-top: 70px;
+}
+
+.text2{
+  position: absolute;
+  margin-left: 1300px;
+}
+
+
+
+
+
+.knowmorebutton{
+height: 90px;
+width: 180px;
+background-color: #FECB03;
+color:black;
+margin-left: 62px;
+margin-top: 20px;
+border-radius: 50px;
+
+
+}
+.clock{
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+outline: 0;
+  background-color: #FECB03;
+
+
+}
+
+.categories1{
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+display: flex;
+gap:100px;
+justify-content: center;
+
+
+}
+.categories2{
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 20px;
+
+}
+.card{
+width: 380px;
+height: 391px;
+background-color: #262626;
+border-radius: 10px;
+padding-left: 20px;
+padding-right: 20px;
+
+}
+
+.footer{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  gap:400px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  background-color:#262626;
+  border-radius: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+.fc{
+
+  height: 280px;
+  width: 300px;
+
+}
